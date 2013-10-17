@@ -1,0 +1,152 @@
+(dp0
+S'yes'
+p1
+(dp2
+S'yes'
+p3
+(dp4
+S'animal'
+p5
+S'horse'
+p6
+ssS'question'
+p7
+S'Do people often ride it?'
+p8
+sS'no'
+p9
+(dp10
+g5
+S'giraffe'
+p11
+sssS'question'
+p12
+S'Does it have a long neck?'
+p13
+sS'no'
+p14
+(dp15
+g3
+(dp16
+g5
+S'dog'
+p17
+ssg7
+S'Does it bark?'
+p18
+sg9
+(dp19
+g3
+(dp20
+g5
+S'cat'
+p21
+ssg7
+S'Does it meow?'
+p22
+sg9
+(dp23
+g3
+(dp24
+g3
+(dp25
+g5
+S'lizard'
+p26
+ssg7
+S'Does it have legs?'
+p27
+sg9
+(dp28
+g3
+(dp29
+g5
+S'fish'
+p30
+ssg7
+S'Does it live in the water?'
+p31
+sg9
+(dp32
+g5
+S'snake'
+p33
+ssssg7
+S'Does it have scales?'
+p34
+sg9
+(dp35
+g3
+(dp36
+g5
+S'whale'
+p37
+ssg7
+S'Does it live in the water?'
+p38
+sg9
+(dp39
+g3
+(dp40
+g5
+S'cow'
+p41
+ssg7
+S'Does it moo?'
+p42
+sg9
+(dp43
+g3
+(dp44
+g5
+S'elephant'
+p45
+ssg7
+S'Does it have a trunk?'
+p46
+sg9
+(dp47
+g3
+(dp48
+g5
+S'tiger'
+p49
+ssg7
+S'Does it have stripes?'
+p50
+sg9
+(dp51
+g3
+(dp52
+g5
+S'lion'
+p53
+ssg7
+S'Does it roar?'
+p54
+sg9
+(dp55
+g3
+(dp56
+g3
+(dp57
+g5
+S'mouse'
+p58
+ssg7
+S'Is it very small?'
+p59
+sg9
+(dp60
+g5
+S'rat'
+p61
+sssg7
+S'Is it small?'
+p62
+sg9
+(dp63
+g5
+S'sheep'
+p64
+sssssssssss.
