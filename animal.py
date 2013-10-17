@@ -34,7 +34,7 @@ def learn(tree):
     question = raw_input('What yes/no question will tell between a {0} and a {1}? '.format(
             animal, tree['animal']))
     tree['question'] = question
-    if ask('If you are thinking of a {0}, and I ask you "{1}", would you answer yes?'.format(
+    if ask('If you are thinking of a {0}, and I ask you "{1}", what would you answer?'.format(
             animal, question)):
         tree['yes'] = dict(animal=animal)
         tree['no'] = dict(animal=tree['animal'])
