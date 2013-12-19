@@ -1,4 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env python
+# Copyright 2013 paul.whipp@gmail.com
+# Do what you like with it though ;)
+
 
 def ask(question,
         responses={'yes': True,
